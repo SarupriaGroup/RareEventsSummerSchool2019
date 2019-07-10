@@ -1,1 +1,1 @@
-# RareEventsSummerSchool2019
+# Transition Interface Sampling and Forward Flux Sampling
